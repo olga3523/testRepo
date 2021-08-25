@@ -13,7 +13,7 @@ main {
 main nav{
     display:flex;
     justify-content:center;
-width: fit-content;    
+   
 width: 40%;
 }
 main nav input{
@@ -26,9 +26,9 @@ main nav input{
     margin-top: 30px;
 }
 main nav textarea{
-    margin: 35px;
+    margin: 30px;
     height: 50px;
-    width:fit-content ;
+    width:40%
     display: flex;  
 }  
 
